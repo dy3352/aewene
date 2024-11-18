@@ -1,0 +1,14 @@
+.bg-baner {
+    background-image: url('/img/banner.jpg');
+    background-size: cover; /* Menyesuaikan ukuran gambar dengan elemen */
+    background-repeat: no-repeat; /* Mencegah pengulangan gambar */
+    height: 85vh;
+}
+
+.wraper {
+    padding-top: 200px;
+}
+
+.card {
+    padding: 10px;
+}
